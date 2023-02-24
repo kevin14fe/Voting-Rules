@@ -59,7 +59,7 @@ Agent 4: <math xmlns="http://www.w3.org/1998/Math/MathML">
 
 A voting rule is a function that takes as input the preferences of a set of agents and outputs a winning alternative.
 
-
+##
 <strong>Voting Rules:</strong> <br>
 
 Dictatorship: <br>
@@ -121,8 +121,8 @@ Every agent assigns a score of <math xmlns="http://www.w3.org/1998/Math/MathML">
 Single Transferable Vote (STV): <br>
 The voting rule works in rounds. In each round, the alternatives that appear the least frequently in the first position of agents' rankings are removed, and the process is repeated. When the final set of alternatives is removed (one or possibly more), then this last set is the set of possible winners. If there are more than one, a tie-breaking rule is used to select a single winner.
 
-
-Tie-Breaking Rules: <br>
+##
+<strong>Tie-Breaking Rules:</strong> <br>
 
 Following are the three tie-breaking rules, the alternatives are represented by integers.
 
